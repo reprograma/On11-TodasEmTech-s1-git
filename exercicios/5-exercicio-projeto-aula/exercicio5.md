@@ -1,7 +1,7 @@
 [APRESENTAÇÃO](https://docs.google.com/presentation/d/14xd9YS-5exArIv23Zd_sy6oXlCXUJpELCeAmwlijEBY/edit?usp=sharing)
 
 ### Contribuindo com um projeto da Reprograma
-- Entrar o repositório do projeto da Reprograma: https://github.com/reprograma/On9-Accenture-S1-Intro
+- Entrar o repositório do projeto da Reprograma: https://github.com/reprograma/On11-TodasEmTech-s1-git
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
 - Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
 - `git clone https://github.com/reprograma/On9-Accenture-S1-Intro`
@@ -38,7 +38,7 @@
 - `git commit -m "Mensagem de bom senso"`: adicionando a mensagem do que foi modificado.
 - `git remote -v`: verifique se o endereço do repositório remoto. (Neste caso, o endereço do remoto chamado `origin` já veio quando você fez o clone do repositório).
 - `git push origin ex-aula-seuNome`: envie para o repositório remoto as alterações da branch `ex-aula-seuNome`.
-- Verifique no GitHub se sua alteração foi enviada com sucesso. Veja se sua branch está no repositório: https://github.com/reprograma/On9-Accenture-S1-Intro
+- Verifique no GitHub se sua alteração foi enviada com sucesso. Veja se sua branch está no repositório: https://github.com/reprograma/On11-TodasEmTech-s1-git
 - Clicar na aba **Pull requests** do repositório no GitHub.
 - Clicar em **Compare & pull request** e verifique as alterações no código.
 - **base: master <= compare: ex-aula-seuNome**: Criar o **pull request** verificando se está indo da sua branch `ex-aula-seuNome` para a branch master.

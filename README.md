@@ -1,6 +1,6 @@
-# On9-conceitos-introdutórios-e-git
+# On11-TodasEmTech-s1-git
 
-Turma Online 9 - Accenture  | Back-end | 2020 | Semana 1 | Conceitos Introdutórios e Git
+Turma Online 11 - Todas em Tech  | Back-end | 2021 | Conceitos Introdutórios e Git
 
 Esse conteúdo foi feito com referência e cópia nos seguintes materiais:
  - [Turma Online 1 - Github](https://github.com/reprograma/CursoOnline-Aula3-Git-and-Github)
