@@ -1,0 +1,27 @@
+DÚVIDAS DA AULA DE DÚVIDA [aaaaaaaaa]
+
+-> Conteúdo da aula
+CLONE
+- Clonar repositório OK
+- Clonei o repositório em uma pasta qualquer do computador. Agora quero clonar em outro lugar, é possível? OK
+- Como atualizo o projeto que clonei do github? OK
+- Como fazer mais de uma atualização no repositório? OK
+
+PR
+- É possível deixar só um comentário aparecendo no PR (Pull Request)? OK
+- Eu consigo excluir meu PR?
+
+- git push -u origin, quando usar?
+
+- Usar a versão desktop do github: vale a pena? quando usar? vantagens x desvantagens
+
+
+-> Projeto
+- Posso criar uma branch e subir no repositório que eu forkei?
+- A branch criada com meu nome tem vinculo comigo? Só eu consigo editar? OK
+- Minha branch é "beatriz" e dou push em outra branch, minhas alterações vão para qual branch?
+- Quando faço o git push na minha branch, os arquivos são enviados nela ou na branch main?
+- Todas as pessoas que estão participando do projeto tem acesso a minha branch?
+- O que faço no classroom pra indicar atividade finalizada?
+ 
+
