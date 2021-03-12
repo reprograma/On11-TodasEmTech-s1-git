@@ -1,11 +1,11 @@
-# Exercício de contribuição em um projeto onde você é colaboradora
+# Exercício de contribuição em um projeto usando fork
 
-- Se você já fez `git clone` do repositório dessa a aula, então não precisa fazer de novo.
-
-
-- Este exercício para casa segue fluxo similar ao exercício da pasta [5-exercicio-projeto-aula](https://github.com/reprograma/On9-Accenture-S1-Intro). Você pode usá-lo como referência.
+- Para realizar esse projeto, precisamos fazer um fork do repositório da {reprograma} [On11-TodasEmTech-s1-git](https://github.com/reprograma/On11-TodasEmTech-s1-git). 
+Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On11-TodasEmTech-s1-git/blob/86ae350c27a4760f5fddf86b006cfcfa3f6b7e6c/conteudo/sobre-fork.md)
 
 ### Instruções
+* Após o fork, entrar no repositório que fica na aba de "Meus Repositórios" na sua conta do Githun
+* Clonar o repositório para seu computador
 * Entrar na pasta 8-exercicio-projeto-casa e siga as instruções a seguir.
 * Adicionar link para imagem, link para seu github e o seu nome em uma `<div>`, seguindo o modelo com as informações da Paula Allemand.
 	* Use o link do seu github para colocar no ***href*** na tag `<a>`. (Ex: https://github.com/reprograma)
@@ -56,4 +56,4 @@
 
 
 * Ir para a aba ***Pull requests*** do repositório da aula 
-* Criar novo pull request ***Compare & pull request*** da branch do seu repositório para a branch com seu nome do repositório da reprograma
+* Criar novo pull request ***New pull request***, selecionando a opção **compare across forks** da branch do seu repositório para a branch com seu nome do repositório da reprograma
