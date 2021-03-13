@@ -1,5 +1,3 @@
-[APRESENTAÇÃO](https://docs.google.com/presentation/d/1tKblHDWWbLfPe13UYb91y4PvTcN7rVZPzmED3eBS5OU/edit?usp=sharing)
-
 ### Criando e deletando pastas e arquivos pelo terminal Git Bash
 
 **OBS1**: Erros de digitação e formatação dos comandos no git bash podem acarretar em problemas, lembrem de verificar a grafia caso algum comando dê errado. Para relembrar os comandos é só [voltar ao material sobre comandos no terminal](../sobre-linha-de-comando.md#comandos-básicos-do-terminal)
