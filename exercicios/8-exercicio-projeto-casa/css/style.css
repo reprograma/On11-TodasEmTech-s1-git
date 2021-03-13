@@ -1,6 +1,7 @@
 body {
   margin: 0;
   text-align: center;
+  background-color: rgb(157, 107, 207);
 }
 
 .container {
@@ -19,4 +20,12 @@ body {
   width: 180px;
   height: 180px;
   border-radius: 50%;
+}
+
+h2{
+  color: white;
+}
+
+p{
+  font-size: 18px;
 }
